@@ -1,0 +1,4 @@
+# Referenced at /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:30
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:30
+-keep class com.example.bengkel.util.UserClient { <init>(); }

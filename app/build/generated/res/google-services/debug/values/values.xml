@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">629935989833-emvf9il35hd5h8dicb98ekfqgrdnmk2b.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://maps-da6ed.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">629935989833</string>
+    <string name="google_api_key" translatable="false">AIzaSyBEvrMTqlV4CXjGDVcgZMCjtpX_7gUhNW4</string>
+    <string name="google_app_id" translatable="false">1:629935989833:android:aa595e1fa4982024498b98</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBEvrMTqlV4CXjGDVcgZMCjtpX_7gUhNW4</string>
+    <string name="google_storage_bucket" translatable="false">maps-da6ed.appspot.com</string>
+    <string name="project_id" translatable="false">maps-da6ed</string>
+</resources>

@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "629935989833",
+    "firebase_url": "https://maps-da6ed.firebaseio.com",
+    "project_id": "maps-da6ed",
+    "storage_bucket": "maps-da6ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629935989833:android:7f380fcba4bb2b16498b98",
+        "android_client_info": {
+          "package_name": "com.codingwithmitch.googlemaps2018"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629935989833-emvf9il35hd5h8dicb98ekfqgrdnmk2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEvrMTqlV4CXjGDVcgZMCjtpX_7gUhNW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629935989833-emvf9il35hd5h8dicb98ekfqgrdnmk2b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629935989833:android:aa595e1fa4982024498b98",
+        "android_client_info": {
+          "package_name": "com.example.bengkel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629935989833-0uti4otkdutnkuvott8tj0jntnrn7l9p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bengkel",
+            "certificate_hash": "2de28969e4c487b75992997df396a6315381abb4"
+          }
+        },
+        {
+          "client_id": "629935989833-emvf9il35hd5h8dicb98ekfqgrdnmk2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEvrMTqlV4CXjGDVcgZMCjtpX_7gUhNW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629935989833-emvf9il35hd5h8dicb98ekfqgrdnmk2b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629935989833:android:719e7f5f3b917ec3498b98",
+        "android_client_info": {
+          "package_name": "com.example.bengkel1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629935989833-emvf9il35hd5h8dicb98ekfqgrdnmk2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEvrMTqlV4CXjGDVcgZMCjtpX_7gUhNW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629935989833-emvf9il35hd5h8dicb98ekfqgrdnmk2b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

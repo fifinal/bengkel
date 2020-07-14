@@ -1,0 +1,801 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:2:1-124:12
+INJECTED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:2:1-124:12
+INJECTED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:2:1-124:12
+INJECTED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:2:1-124:12
+MERGED from [androidx.multidex:multidex:2.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b01fa616267e41d2a474d96f41401ece/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-ui:2.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/e787c9fc463f77917b3bb0c8116feb3a/jetified-navigation-ui-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.karumi:dexter:5.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/717c6748c41d055f6790e2c85155c96b/jetified-dexter-5.0.0/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.material:material:1.2.0-alpha03] /home/fifin/.gradle/caches/transforms-2/files-2.1/32af8b5d4a6d4fe13e753cec26eccbe4/material-1.2.0-alpha03/AndroidManifest.xml:17:1-24:12
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.6.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/45915251e03a399b10cd8ca4755e06e2/jetified-android-image-cropper-2.6.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/78d780e7e979f381c0cb40b5ded8691d/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/fifin/.gradle/caches/transforms-2/files-2.1/6d16290c97378708d50718ed6ea0b1c0/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/91482f6452f8e2279fb096c6daca6c99/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/c5d349b176c72adc126b4a8399f3d7e2/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/9a22d52a93b71a6bbceaa7c9c006adaa/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/37adb3ef701a2867e8769c0927655fa4/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-firestore:21.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/a5224381b7dc0b9bfa5213437312c513/jetified-firebase-firestore-21.2.0/AndroidManifest.xml:2:1-26:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/ab4d72fdc4263a03fc609ea1b14fbe0c/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/33904a9952e04540992fd4e899a6e29f/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/4e481139239543b23892f41b0bb25b0a/navigation-fragment-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/a360ad449f9f5e42cc77440033e33e71/navigation-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-core:17.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/40830ee5e0f41d877d225d310a6d4dbd/firebase-core-17.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/51000398e4a4ed278682e5cc43cc40fc/firebase-analytics-17.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b28b14ca5323778c1caade79d1983929/play-services-measurement-17.2.0/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.firebase:firebase-messaging:19.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/d967fea1cdebdb4502af8b07448b2b18/jetified-firebase-messaging-19.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/733d47e1ff2687ec8949a4a7505c6ad2/play-services-measurement-api-17.2.0/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/856a947c1a9c6ebc4d2fc0c2fb4dbece/firebase-iid-19.0.0/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/99eaba8acd143c1033a53fb9ecd3cc21/play-services-measurement-sdk-17.2.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/41ad9da55c57d71cf9060429895bbd00/play-services-measurement-impl-17.2.0/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/338fab4b05d87887cad32009aa98de25/play-services-stats-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/45739e064fd8ad2faa9c3686c49a0516/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/3ee1a7df39c8610ffd73616edf6069ab/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/65ba7ce53ddd916b7950d94b50a296ba/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/0218125dd7bc3c29b146e39e493281fb/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b488c56577f0f95da2f3eb950b2cdad5/jetified-play-services-maps-16.1.0/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/7887a360feea2a42ac511ab570481268/play-services-location-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-auth:19.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/e94d4c46262c04452ee9877596073b58/firebase-auth-19.1.0/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/a980353ed8e06b27f44f17a0b7d470b7/play-services-places-placereport-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/29e1e66a39ef37e234c8a2d714a97ff9/jetified-firebase-storage-17.0.0/AndroidManifest.xml:15:1-37:12
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/c974b43e57f2ece2b339e0a98aaa403c/firebase-auth-interop-18.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/e7f18d9a4dd15f2f39538b6f6728a054/firebase-iid-interop-17.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/26923404d8e377cf48027104175cd048/play-services-base-17.1.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:19.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/1c539ef2bb3996784245d4ef95a5e9fb/firebase-common-19.2.0/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/75185506230655574b8334cb643643f0/play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/698268a0a81e9f05504f9f90dbf99e08/firebase-measurement-connector-18.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/d606ed20b4e29e870cd5d426b5e07d62/play-services-measurement-sdk-api-17.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/6a30b168ef4a3adba6762d2a597f7e1a/play-services-measurement-base-17.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/f4d430d7612f12d82e3c4400aed4b652/play-services-ads-identifier-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/09dc4ecd19b8b192331693c43ac482a3/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.media:media:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/a854b56cd163a08cc70affd1c719ec31/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/599a956fc5880721b736c36d7a2a90a9/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/876acba29f09545967920ab857d776a4/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/264e420e1b511dddf902244cdbab0d84/lifecycle-extensions-2.1.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/cab61fcc949442652618b1d60fade6f4/jetified-glide-4.8.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/f02024937df418748afbe331234aa006/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/ac681daf82c56bbcb32cd485fc064a28/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/ab3a184af13a3a82dd474493bbfa3bb1/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/a6c2f02f5bfac95e56aa3f49c83ac397/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/704f77bb835d112513bfb707984cbdc1/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/190ec68b3797b99e27d4d5621c313ff7/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/cea9d07eed335b7021facd428f08a0ed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common:2.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/445ecae866620b04ee86f2d032bc763e/navigation-common-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/dbd8a55495c80c3c46794875c0ca53fb/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b6b5951a20836cbe843a8e306a5032d5/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/c292ecb9a8de3ae719de415b6368ee80/lifecycle-process-2.1.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/469804a1c044e77d5e2c9962fc8a064a/lifecycle-service-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/d673f12e92e211a8b9a89c6bdf1bf2c5/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/364bfc850e01ae1679f03a2dcd1f5307/lifecycle-livedata-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/e7c3e6ba9075d8f66f310ca814d79b84/lifecycle-livedata-core-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/1b5a694bb7b83783901e3ce4e9b3c99d/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/562a45b8cb8a3696f4fae85d73cb39c0/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/7d03fc8e0e7e41d5653ebb51e8c035fb/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/77b77765f3a7bdc26b6277f1741a22b8/jetified-gifdecoder-4.8.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/3423924de632ee66e67606fd54b3deb2/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/ac265cfd5669b686a3cba2f45a6e36b7/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/a258954b59e52ea64468e7c8b611841e/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/7fcbef39c4d63cdee011faaa088ab3cd/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/25fdd493a672d7b5d446aa2af8c06677/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/ef2e7569653745383f2a88f459070658/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/e542a78b280a084fd48769af2f842423/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/fifin/.gradle/caches/transforms-2/files-2.1/a1e0b9a0d6b80a81b4c13a8b452d5c6e/jetified-android-maps-utils-0.5/AndroidManifest.xml:2:1-13:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/2dcead0920f2711b5e978ea614048854/jetified-circleimageview-2.2.0/AndroidManifest.xml:2:1-11:12
+MERGED from [id.zelory:compressor:2.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/67911906c6455d7e784512273694c462/compressor-2.1.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/2b725ba3d696c2338b19adc4f0410b3f/annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [io.grpc:grpc-android:1.21.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/77ccedb24d04895978008e12f194cd5a/grpc-android-1.21.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/6df0cf79b64fd2c26bf8b27a76ce287b/firebase-database-collection-17.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/624e78f483605cfbc2e28baa5f862379/protolite-well-known-types-17.0.0/AndroidManifest.xml:2:1-11:12
+INJECTED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:2:1-124:12
+INJECTED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:2:1-124:12
+INJECTED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:2:1-124:12
+	package
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml
+		INJECTED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:2:1-124:12
+		INJECTED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:2:1-124:12
+		INJECTED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-firestore:21.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/a5224381b7dc0b9bfa5213437312c513/jetified-firebase-firestore-21.2.0/AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:21.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/a5224381b7dc0b9bfa5213437312c513/jetified-firebase-firestore-21.2.0/AndroidManifest.xml:14:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b28b14ca5323778c1caade79d1983929/play-services-measurement-17.2.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b28b14ca5323778c1caade79d1983929/play-services-measurement-17.2.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/733d47e1ff2687ec8949a4a7505c6ad2/play-services-measurement-api-17.2.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/733d47e1ff2687ec8949a4a7505c6ad2/play-services-measurement-api-17.2.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/856a947c1a9c6ebc4d2fc0c2fb4dbece/firebase-iid-19.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/856a947c1a9c6ebc4d2fc0c2fb4dbece/firebase-iid-19.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/41ad9da55c57d71cf9060429895bbd00/play-services-measurement-impl-17.2.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/41ad9da55c57d71cf9060429895bbd00/play-services-measurement-impl-17.2.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b488c56577f0f95da2f3eb950b2cdad5/jetified-play-services-maps-16.1.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b488c56577f0f95da2f3eb950b2cdad5/jetified-play-services-maps-16.1.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/29e1e66a39ef37e234c8a2d714a97ff9/jetified-firebase-storage-17.0.0/AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/29e1e66a39ef37e234c8a2d714a97ff9/jetified-firebase-storage-17.0.0/AndroidManifest.xml:27:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/d606ed20b4e29e870cd5d426b5e07d62/play-services-measurement-sdk-api-17.2.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/d606ed20b4e29e870cd5d426b5e07d62/play-services-measurement-sdk-api-17.2.0/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:12:5-79
+MERGED from [com.google.firebase:firebase-firestore:21.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/a5224381b7dc0b9bfa5213437312c513/jetified-firebase-firestore-21.2.0/AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-firestore:21.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/a5224381b7dc0b9bfa5213437312c513/jetified-firebase-firestore-21.2.0/AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b28b14ca5323778c1caade79d1983929/play-services-measurement-17.2.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b28b14ca5323778c1caade79d1983929/play-services-measurement-17.2.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/733d47e1ff2687ec8949a4a7505c6ad2/play-services-measurement-api-17.2.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/733d47e1ff2687ec8949a4a7505c6ad2/play-services-measurement-api-17.2.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/856a947c1a9c6ebc4d2fc0c2fb4dbece/firebase-iid-19.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/856a947c1a9c6ebc4d2fc0c2fb4dbece/firebase-iid-19.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/41ad9da55c57d71cf9060429895bbd00/play-services-measurement-impl-17.2.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/41ad9da55c57d71cf9060429895bbd00/play-services-measurement-impl-17.2.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b488c56577f0f95da2f3eb950b2cdad5/jetified-play-services-maps-16.1.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b488c56577f0f95da2f3eb950b2cdad5/jetified-play-services-maps-16.1.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/29e1e66a39ef37e234c8a2d714a97ff9/jetified-firebase-storage-17.0.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/29e1e66a39ef37e234c8a2d714a97ff9/jetified-firebase-storage-17.0.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/d606ed20b4e29e870cd5d426b5e07d62/play-services-measurement-sdk-api-17.2.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/d606ed20b4e29e870cd5d426b5e07d62/play-services-measurement-sdk-api-17.2.0/AndroidManifest.xml:24:5-79
+MERGED from [io.grpc:grpc-android:1.21.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/77ccedb24d04895978008e12f194cd5a/grpc-android-1.21.0/AndroidManifest.xml:11:5-79
+MERGED from [io.grpc:grpc-android:1.21.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/77ccedb24d04895978008e12f194cd5a/grpc-android-1.21.0/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:12:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:13:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:14:22-78
+uses-feature#0x00020000
+ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:16:5-18:35
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b488c56577f0f95da2f3eb950b2cdad5/jetified-play-services-maps-16.1.0/AndroidManifest.xml:26:5-28:35
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b488c56577f0f95da2f3eb950b2cdad5/jetified-play-services-maps-16.1.0/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:17:9-41
+	android:required
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:18:9-32
+application
+ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:20:5-122:19
+MERGED from [com.karumi:dexter:5.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/717c6748c41d055f6790e2c85155c96b/jetified-dexter-5.0.0/AndroidManifest.xml:26:5-30:19
+MERGED from [com.karumi:dexter:5.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/717c6748c41d055f6790e2c85155c96b/jetified-dexter-5.0.0/AndroidManifest.xml:26:5-30:19
+MERGED from [com.google.android.material:material:1.2.0-alpha03] /home/fifin/.gradle/caches/transforms-2/files-2.1/32af8b5d4a6d4fe13e753cec26eccbe4/material-1.2.0-alpha03/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.0-alpha03] /home/fifin/.gradle/caches/transforms-2/files-2.1/32af8b5d4a6d4fe13e753cec26eccbe4/material-1.2.0-alpha03/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/fifin/.gradle/caches/transforms-2/files-2.1/6d16290c97378708d50718ed6ea0b1c0/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/fifin/.gradle/caches/transforms-2/files-2.1/6d16290c97378708d50718ed6ea0b1c0/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-firestore:21.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/a5224381b7dc0b9bfa5213437312c513/jetified-firebase-firestore-21.2.0/AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:21.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/a5224381b7dc0b9bfa5213437312c513/jetified-firebase-firestore-21.2.0/AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-core:17.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/40830ee5e0f41d877d225d310a6d4dbd/firebase-core-17.1.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:17.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/40830ee5e0f41d877d225d310a6d4dbd/firebase-core-17.1.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/51000398e4a4ed278682e5cc43cc40fc/firebase-analytics-17.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/51000398e4a4ed278682e5cc43cc40fc/firebase-analytics-17.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b28b14ca5323778c1caade79d1983929/play-services-measurement-17.2.0/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b28b14ca5323778c1caade79d1983929/play-services-measurement-17.2.0/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-messaging:19.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/d967fea1cdebdb4502af8b07448b2b18/jetified-firebase-messaging-19.0.0/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:19.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/d967fea1cdebdb4502af8b07448b2b18/jetified-firebase-messaging-19.0.0/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/733d47e1ff2687ec8949a4a7505c6ad2/play-services-measurement-api-17.2.0/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/733d47e1ff2687ec8949a4a7505c6ad2/play-services-measurement-api-17.2.0/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/856a947c1a9c6ebc4d2fc0c2fb4dbece/firebase-iid-19.0.0/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/856a947c1a9c6ebc4d2fc0c2fb4dbece/firebase-iid-19.0.0/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/99eaba8acd143c1033a53fb9ecd3cc21/play-services-measurement-sdk-17.2.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/99eaba8acd143c1033a53fb9ecd3cc21/play-services-measurement-sdk-17.2.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/41ad9da55c57d71cf9060429895bbd00/play-services-measurement-impl-17.2.0/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/41ad9da55c57d71cf9060429895bbd00/play-services-measurement-impl-17.2.0/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/338fab4b05d87887cad32009aa98de25/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/338fab4b05d87887cad32009aa98de25/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b488c56577f0f95da2f3eb950b2cdad5/jetified-play-services-maps-16.1.0/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b488c56577f0f95da2f3eb950b2cdad5/jetified-play-services-maps-16.1.0/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/7887a360feea2a42ac511ab570481268/play-services-location-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/7887a360feea2a42ac511ab570481268/play-services-location-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth:19.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/e94d4c46262c04452ee9877596073b58/firebase-auth-19.1.0/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:19.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/e94d4c46262c04452ee9877596073b58/firebase-auth-19.1.0/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/a980353ed8e06b27f44f17a0b7d470b7/play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/a980353ed8e06b27f44f17a0b7d470b7/play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/29e1e66a39ef37e234c8a2d714a97ff9/jetified-firebase-storage-17.0.0/AndroidManifest.xml:29:5-35:19
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/29e1e66a39ef37e234c8a2d714a97ff9/jetified-firebase-storage-17.0.0/AndroidManifest.xml:29:5-35:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/c974b43e57f2ece2b339e0a98aaa403c/firebase-auth-interop-18.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/c974b43e57f2ece2b339e0a98aaa403c/firebase-auth-interop-18.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/e7f18d9a4dd15f2f39538b6f6728a054/firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/e7f18d9a4dd15f2f39538b6f6728a054/firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/26923404d8e377cf48027104175cd048/play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/26923404d8e377cf48027104175cd048/play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:19.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/1c539ef2bb3996784245d4ef95a5e9fb/firebase-common-19.2.0/AndroidManifest.xml:12:5-24:19
+MERGED from [com.google.firebase:firebase-common:19.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/1c539ef2bb3996784245d4ef95a5e9fb/firebase-common-19.2.0/AndroidManifest.xml:12:5-24:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/75185506230655574b8334cb643643f0/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/75185506230655574b8334cb643643f0/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/698268a0a81e9f05504f9f90dbf99e08/firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/698268a0a81e9f05504f9f90dbf99e08/firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/6a30b168ef4a3adba6762d2a597f7e1a/play-services-measurement-base-17.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/6a30b168ef4a3adba6762d2a597f7e1a/play-services-measurement-base-17.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/f4d430d7612f12d82e3c4400aed4b652/play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/f4d430d7612f12d82e3c4400aed4b652/play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/09dc4ecd19b8b192331693c43ac482a3/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/09dc4ecd19b8b192331693c43ac482a3/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/264e420e1b511dddf902244cdbab0d84/lifecycle-extensions-2.1.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/264e420e1b511dddf902244cdbab0d84/lifecycle-extensions-2.1.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/cab61fcc949442652618b1d60fade6f4/jetified-glide-4.8.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/cab61fcc949442652618b1d60fade6f4/jetified-glide-4.8.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b6b5951a20836cbe843a8e306a5032d5/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b6b5951a20836cbe843a8e306a5032d5/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/c292ecb9a8de3ae719de415b6368ee80/lifecycle-process-2.1.0/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/c292ecb9a8de3ae719de415b6368ee80/lifecycle-process-2.1.0/AndroidManifest.xml:22:5-28:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/77b77765f3a7bdc26b6277f1741a22b8/jetified-gifdecoder-4.8.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/77b77765f3a7bdc26b6277f1741a22b8/jetified-gifdecoder-4.8.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/ef2e7569653745383f2a88f459070658/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/ef2e7569653745383f2a88f459070658/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/fifin/.gradle/caches/transforms-2/files-2.1/a1e0b9a0d6b80a81b4c13a8b452d5c6e/jetified-android-maps-utils-0.5/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/fifin/.gradle/caches/transforms-2/files-2.1/a1e0b9a0d6b80a81b4c13a8b452d5c6e/jetified-android-maps-utils-0.5/AndroidManifest.xml:7:5-11:19
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/2dcead0920f2711b5e978ea614048854/jetified-circleimageview-2.2.0/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/2dcead0920f2711b5e978ea614048854/jetified-circleimageview-2.2.0/AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b6b5951a20836cbe843a8e306a5032d5/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:24:9-41
+	android:roundIcon
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:25:9-49
+	android:icon
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:23:9-44
+	android:allowBackup
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:27:9-40
+	android:name
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:21:9-40
+activity#com.example.bengkel.ui.bengkel.LayananActivity
+ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:28:9-29:68
+	android:theme
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:29:13-55
+	android:name
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:28:19-61
+activity#com.example.bengkel.ui.admin.GraphActivity
+ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:30:9-60
+	android:name
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:30:19-57
+meta-data#com.google.android.geo.API_KEY
+ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:39:9-41:55
+	android:value
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:41:13-52
+	android:name
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:40:13-58
+activity#com.example.bengkel.ui.admin.AdminMapsActivity
+ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:43:9-45:65
+	android:label
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:45:13-62
+	android:name
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:44:13-55
+activity#com.example.bengkel.ui.bengkel.MapsActivity
+ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:46:9-48:59
+	android:label
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:48:13-56
+	android:name
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:47:13-52
+activity#com.example.bengkel.ui.mekanik.HomeMekanikActivity
+ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:49:9-51:67
+	android:label
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:51:13-64
+	android:name
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:50:13-59
+activity#com.example.bengkel.ui.bengkel.DetailOrderActivity
+ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:52:9-68
+	android:name
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:52:19-65
+activity#com.example.bengkel.ui.bengkel.OrderBengkelActivity
+ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:53:9-55:58
+	android:theme
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:55:13-55
+	android:name
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:54:13-60
+activity#com.example.bengkel.ui.bengkel.MekanikBengkelActivity
+ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:56:9-58:58
+	android:theme
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:58:13-55
+	android:name
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:57:13-62
+activity#com.example.bengkel.ui.bengkel.ProductActivity
+ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:59:9-61:58
+	android:theme
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:61:13-55
+	android:name
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:60:13-55
+activity#com.example.bengkel.ui.bengkel.ProfileBengkelActivity
+ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:62:9-71
+	android:name
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:62:19-68
+activity#com.example.bengkel.ui.user.HomeActivity
+ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:63:9-66:58
+	android:label
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:65:13-56
+	android:theme
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:66:13-55
+	android:name
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:64:13-49
+activity#com.example.bengkel.ui.bengkel.SetupActivity
+ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:67:9-62
+	android:name
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:67:19-59
+activity#com.example.bengkel.ui.mekanik.EditProfileMekanikActivity
+ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:68:9-75
+	android:name
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:68:19-72
+activity#com.example.bengkel.ui.bengkel.BengkelDashboardActivity
+ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:69:9-71:58
+	android:theme
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:71:13-55
+	android:name
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:70:13-64
+activity#com.example.bengkel.ui.mekanik.MekanikActivity
+ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:72:9-74:58
+	android:theme
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:74:13-55
+	android:name
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:73:13-55
+activity#com.example.bengkel.ui.LandingPageActivity
+ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:75:9-83:20
+	android:theme
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:77:13-55
+	android:name
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:76:13-51
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:78:13-82:29
+action#android.intent.action.MAIN
+ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:79:17-69
+	android:name
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:79:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:81:17-77
+	android:name
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:81:27-74
+activity#com.example.bengkel.ui.RegisterActivity
+ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:84:9-86:58
+	android:theme
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:86:13-55
+	android:name
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:85:13-48
+activity#com.example.bengkel.ui.user.ChatroomActivity
+ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:87:9-62
+	android:name
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:87:19-59
+meta-data#com.google.android.gms.version
+ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:89:9-91:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/09dc4ecd19b8b192331693c43ac482a3/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/09dc4ecd19b8b192331693c43ac482a3/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/fifin/.gradle/caches/transforms-2/files-2.1/a1e0b9a0d6b80a81b4c13a8b452d5c6e/jetified-android-maps-utils-0.5/AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/fifin/.gradle/caches/transforms-2/files-2.1/a1e0b9a0d6b80a81b4c13a8b452d5c6e/jetified-android-maps-utils-0.5/AndroidManifest.xml:8:9-10:69
+	android:value
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:91:13-66
+	android:name
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:90:13-58
+meta-data#preloaded_fonts
+ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:92:9-94:57
+	android:resource
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:94:13-54
+	android:name
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:93:13-43
+uses-library#org.apache.http.legacy
+ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:96:9-98:40
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b488c56577f0f95da2f3eb950b2cdad5/jetified-play-services-maps-16.1.0/AndroidManifest.xml:33:9-35:40
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b488c56577f0f95da2f3eb950b2cdad5/jetified-play-services-maps-16.1.0/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:98:13-37
+	android:name
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:97:13-50
+service#com.example.bengkel.services.LocationService
+ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:100:9-102:43
+	android:stopWithTask
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:102:13-40
+	android:name
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:101:13-53
+service#com.example.bengkel.services.FirebaseService
+ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:103:9-107:19
+	android:name
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:103:18-58
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:104:13-106:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:105:17-78
+	android:name
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:105:25-75
+meta-data#com.google.firebase.messagin.default_notification_client_id
+ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:109:9-111:70
+	android:value
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:111:13-67
+	android:name
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:110:13-87
+activity#com.example.bengkel.ui.user.MainActivity
+ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:113:9-115:59
+	android:label
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:115:13-56
+	android:name
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:114:13-49
+activity#com.example.bengkel.ui.LoginActivity
+ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:116:9-118:58
+	android:theme
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:118:13-55
+	android:name
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:117:13-45
+activity#com.theartofdev.edmodo.cropper.CropImageActivity
+ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:119:9-121:59
+	android:theme
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:121:13-56
+	android:name
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml:120:13-76
+uses-sdk
+INJECTED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml
+INJECTED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml
+MERGED from [androidx.multidex:multidex:2.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b01fa616267e41d2a474d96f41401ece/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b01fa616267e41d2a474d96f41401ece/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.navigation:navigation-ui:2.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/e787c9fc463f77917b3bb0c8116feb3a/jetified-navigation-ui-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/e787c9fc463f77917b3bb0c8116feb3a/jetified-navigation-ui-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.karumi:dexter:5.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/717c6748c41d055f6790e2c85155c96b/jetified-dexter-5.0.0/AndroidManifest.xml:22:5-24:41
+MERGED from [com.karumi:dexter:5.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/717c6748c41d055f6790e2c85155c96b/jetified-dexter-5.0.0/AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.android.material:material:1.2.0-alpha03] /home/fifin/.gradle/caches/transforms-2/files-2.1/32af8b5d4a6d4fe13e753cec26eccbe4/material-1.2.0-alpha03/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.0-alpha03] /home/fifin/.gradle/caches/transforms-2/files-2.1/32af8b5d4a6d4fe13e753cec26eccbe4/material-1.2.0-alpha03/AndroidManifest.xml:20:5-44
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.6.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/45915251e03a399b10cd8ca4755e06e2/jetified-android-image-cropper-2.6.0/AndroidManifest.xml:8:5-10:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.6.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/45915251e03a399b10cd8ca4755e06e2/jetified-android-image-cropper-2.6.0/AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/78d780e7e979f381c0cb40b5ded8691d/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/78d780e7e979f381c0cb40b5ded8691d/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/fifin/.gradle/caches/transforms-2/files-2.1/6d16290c97378708d50718ed6ea0b1c0/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/fifin/.gradle/caches/transforms-2/files-2.1/6d16290c97378708d50718ed6ea0b1c0/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/91482f6452f8e2279fb096c6daca6c99/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/91482f6452f8e2279fb096c6daca6c99/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/c5d349b176c72adc126b4a8399f3d7e2/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/c5d349b176c72adc126b4a8399f3d7e2/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/9a22d52a93b71a6bbceaa7c9c006adaa/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/9a22d52a93b71a6bbceaa7c9c006adaa/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/37adb3ef701a2867e8769c0927655fa4/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/37adb3ef701a2867e8769c0927655fa4/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-firestore:21.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/a5224381b7dc0b9bfa5213437312c513/jetified-firebase-firestore-21.2.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:21.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/a5224381b7dc0b9bfa5213437312c513/jetified-firebase-firestore-21.2.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/ab4d72fdc4263a03fc609ea1b14fbe0c/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/ab4d72fdc4263a03fc609ea1b14fbe0c/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/33904a9952e04540992fd4e899a6e29f/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/33904a9952e04540992fd4e899a6e29f/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/4e481139239543b23892f41b0bb25b0a/navigation-fragment-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/4e481139239543b23892f41b0bb25b0a/navigation-fragment-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/a360ad449f9f5e42cc77440033e33e71/navigation-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/a360ad449f9f5e42cc77440033e33e71/navigation-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:17.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/40830ee5e0f41d877d225d310a6d4dbd/firebase-core-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:17.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/40830ee5e0f41d877d225d310a6d4dbd/firebase-core-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/51000398e4a4ed278682e5cc43cc40fc/firebase-analytics-17.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/51000398e4a4ed278682e5cc43cc40fc/firebase-analytics-17.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b28b14ca5323778c1caade79d1983929/play-services-measurement-17.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b28b14ca5323778c1caade79d1983929/play-services-measurement-17.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:19.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/d967fea1cdebdb4502af8b07448b2b18/jetified-firebase-messaging-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:19.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/d967fea1cdebdb4502af8b07448b2b18/jetified-firebase-messaging-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/733d47e1ff2687ec8949a4a7505c6ad2/play-services-measurement-api-17.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/733d47e1ff2687ec8949a4a7505c6ad2/play-services-measurement-api-17.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/856a947c1a9c6ebc4d2fc0c2fb4dbece/firebase-iid-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/856a947c1a9c6ebc4d2fc0c2fb4dbece/firebase-iid-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/99eaba8acd143c1033a53fb9ecd3cc21/play-services-measurement-sdk-17.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/99eaba8acd143c1033a53fb9ecd3cc21/play-services-measurement-sdk-17.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/41ad9da55c57d71cf9060429895bbd00/play-services-measurement-impl-17.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/41ad9da55c57d71cf9060429895bbd00/play-services-measurement-impl-17.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/338fab4b05d87887cad32009aa98de25/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/338fab4b05d87887cad32009aa98de25/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/45739e064fd8ad2faa9c3686c49a0516/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/45739e064fd8ad2faa9c3686c49a0516/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/3ee1a7df39c8610ffd73616edf6069ab/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/3ee1a7df39c8610ffd73616edf6069ab/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/65ba7ce53ddd916b7950d94b50a296ba/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/65ba7ce53ddd916b7950d94b50a296ba/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/0218125dd7bc3c29b146e39e493281fb/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/0218125dd7bc3c29b146e39e493281fb/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b488c56577f0f95da2f3eb950b2cdad5/jetified-play-services-maps-16.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b488c56577f0f95da2f3eb950b2cdad5/jetified-play-services-maps-16.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/7887a360feea2a42ac511ab570481268/play-services-location-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/7887a360feea2a42ac511ab570481268/play-services-location-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:19.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/e94d4c46262c04452ee9877596073b58/firebase-auth-19.1.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:19.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/e94d4c46262c04452ee9877596073b58/firebase-auth-19.1.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/a980353ed8e06b27f44f17a0b7d470b7/play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/a980353ed8e06b27f44f17a0b7d470b7/play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/29e1e66a39ef37e234c8a2d714a97ff9/jetified-firebase-storage-17.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/29e1e66a39ef37e234c8a2d714a97ff9/jetified-firebase-storage-17.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/c974b43e57f2ece2b339e0a98aaa403c/firebase-auth-interop-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/c974b43e57f2ece2b339e0a98aaa403c/firebase-auth-interop-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/e7f18d9a4dd15f2f39538b6f6728a054/firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/e7f18d9a4dd15f2f39538b6f6728a054/firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/26923404d8e377cf48027104175cd048/play-services-base-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/26923404d8e377cf48027104175cd048/play-services-base-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/1c539ef2bb3996784245d4ef95a5e9fb/firebase-common-19.2.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-common:19.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/1c539ef2bb3996784245d4ef95a5e9fb/firebase-common-19.2.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/75185506230655574b8334cb643643f0/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/75185506230655574b8334cb643643f0/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/698268a0a81e9f05504f9f90dbf99e08/firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/698268a0a81e9f05504f9f90dbf99e08/firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/d606ed20b4e29e870cd5d426b5e07d62/play-services-measurement-sdk-api-17.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/d606ed20b4e29e870cd5d426b5e07d62/play-services-measurement-sdk-api-17.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/6a30b168ef4a3adba6762d2a597f7e1a/play-services-measurement-base-17.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/6a30b168ef4a3adba6762d2a597f7e1a/play-services-measurement-base-17.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/f4d430d7612f12d82e3c4400aed4b652/play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/f4d430d7612f12d82e3c4400aed4b652/play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/09dc4ecd19b8b192331693c43ac482a3/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/09dc4ecd19b8b192331693c43ac482a3/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/a854b56cd163a08cc70affd1c719ec31/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/a854b56cd163a08cc70affd1c719ec31/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/599a956fc5880721b736c36d7a2a90a9/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/599a956fc5880721b736c36d7a2a90a9/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/876acba29f09545967920ab857d776a4/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/876acba29f09545967920ab857d776a4/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/264e420e1b511dddf902244cdbab0d84/lifecycle-extensions-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/264e420e1b511dddf902244cdbab0d84/lifecycle-extensions-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/cab61fcc949442652618b1d60fade6f4/jetified-glide-4.8.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/cab61fcc949442652618b1d60fade6f4/jetified-glide-4.8.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/f02024937df418748afbe331234aa006/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/f02024937df418748afbe331234aa006/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/ac681daf82c56bbcb32cd485fc064a28/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/ac681daf82c56bbcb32cd485fc064a28/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/ab3a184af13a3a82dd474493bbfa3bb1/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/ab3a184af13a3a82dd474493bbfa3bb1/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/a6c2f02f5bfac95e56aa3f49c83ac397/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/a6c2f02f5bfac95e56aa3f49c83ac397/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/704f77bb835d112513bfb707984cbdc1/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/704f77bb835d112513bfb707984cbdc1/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/190ec68b3797b99e27d4d5621c313ff7/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/190ec68b3797b99e27d4d5621c313ff7/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/cea9d07eed335b7021facd428f08a0ed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/cea9d07eed335b7021facd428f08a0ed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/445ecae866620b04ee86f2d032bc763e/navigation-common-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/445ecae866620b04ee86f2d032bc763e/navigation-common-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/dbd8a55495c80c3c46794875c0ca53fb/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/dbd8a55495c80c3c46794875c0ca53fb/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b6b5951a20836cbe843a8e306a5032d5/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b6b5951a20836cbe843a8e306a5032d5/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/c292ecb9a8de3ae719de415b6368ee80/lifecycle-process-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/c292ecb9a8de3ae719de415b6368ee80/lifecycle-process-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/469804a1c044e77d5e2c9962fc8a064a/lifecycle-service-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/469804a1c044e77d5e2c9962fc8a064a/lifecycle-service-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/d673f12e92e211a8b9a89c6bdf1bf2c5/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/d673f12e92e211a8b9a89c6bdf1bf2c5/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/364bfc850e01ae1679f03a2dcd1f5307/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/364bfc850e01ae1679f03a2dcd1f5307/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/e7c3e6ba9075d8f66f310ca814d79b84/lifecycle-livedata-core-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/e7c3e6ba9075d8f66f310ca814d79b84/lifecycle-livedata-core-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/1b5a694bb7b83783901e3ce4e9b3c99d/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/1b5a694bb7b83783901e3ce4e9b3c99d/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/562a45b8cb8a3696f4fae85d73cb39c0/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/562a45b8cb8a3696f4fae85d73cb39c0/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/7d03fc8e0e7e41d5653ebb51e8c035fb/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/7d03fc8e0e7e41d5653ebb51e8c035fb/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/77b77765f3a7bdc26b6277f1741a22b8/jetified-gifdecoder-4.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/77b77765f3a7bdc26b6277f1741a22b8/jetified-gifdecoder-4.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/3423924de632ee66e67606fd54b3deb2/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/3423924de632ee66e67606fd54b3deb2/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/ac265cfd5669b686a3cba2f45a6e36b7/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/ac265cfd5669b686a3cba2f45a6e36b7/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/a258954b59e52ea64468e7c8b611841e/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/a258954b59e52ea64468e7c8b611841e/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/7fcbef39c4d63cdee011faaa088ab3cd/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/7fcbef39c4d63cdee011faaa088ab3cd/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/25fdd493a672d7b5d446aa2af8c06677/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/25fdd493a672d7b5d446aa2af8c06677/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/ef2e7569653745383f2a88f459070658/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/ef2e7569653745383f2a88f459070658/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/e542a78b280a084fd48769af2f842423/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/e542a78b280a084fd48769af2f842423/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/fifin/.gradle/caches/transforms-2/files-2.1/a1e0b9a0d6b80a81b4c13a8b452d5c6e/jetified-android-maps-utils-0.5/AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/fifin/.gradle/caches/transforms-2/files-2.1/a1e0b9a0d6b80a81b4c13a8b452d5c6e/jetified-android-maps-utils-0.5/AndroidManifest.xml:5:5-43
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/2dcead0920f2711b5e978ea614048854/jetified-circleimageview-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/2dcead0920f2711b5e978ea614048854/jetified-circleimageview-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [id.zelory:compressor:2.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/67911906c6455d7e784512273694c462/compressor-2.1.0/AndroidManifest.xml:8:5-10:41
+MERGED from [id.zelory:compressor:2.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/67911906c6455d7e784512273694c462/compressor-2.1.0/AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/2b725ba3d696c2338b19adc4f0410b3f/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/2b725ba3d696c2338b19adc4f0410b3f/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [io.grpc:grpc-android:1.21.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/77ccedb24d04895978008e12f194cd5a/grpc-android-1.21.0/AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.21.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/77ccedb24d04895978008e12f194cd5a/grpc-android-1.21.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/6df0cf79b64fd2c26bf8b27a76ce287b/firebase-database-collection-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/6df0cf79b64fd2c26bf8b27a76ce287b/firebase-database-collection-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/624e78f483605cfbc2e28baa5f862379/protolite-well-known-types-17.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/624e78f483605cfbc2e28baa5f862379/protolite-well-known-types-17.0.0/AndroidManifest.xml:7:5-9:41
+INJECTED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml
+INJECTED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml
+		INJECTED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml
+		ADDED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml
+		INJECTED from /media/fifin/32A894C3A894874F/back up laptop/bengkel/app/src/main/AndroidManifest.xml
+activity#com.karumi.dexter.DexterActivity
+ADDED from [com.karumi:dexter:5.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/717c6748c41d055f6790e2c85155c96b/jetified-dexter-5.0.0/AndroidManifest.xml:27:9-29:72
+	android:theme
+		ADDED from [com.karumi:dexter:5.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/717c6748c41d055f6790e2c85155c96b/jetified-dexter-5.0.0/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.karumi:dexter:5.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/717c6748c41d055f6790e2c85155c96b/jetified-dexter-5.0.0/AndroidManifest.xml:28:13-60
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-firestore:21.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/a5224381b7dc0b9bfa5213437312c513/jetified-firebase-firestore-21.2.0/AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/733d47e1ff2687ec8949a4a7505c6ad2/play-services-measurement-api-17.2.0/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/733d47e1ff2687ec8949a4a7505c6ad2/play-services-measurement-api-17.2.0/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/856a947c1a9c6ebc4d2fc0c2fb4dbece/firebase-iid-19.0.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/856a947c1a9c6ebc4d2fc0c2fb4dbece/firebase-iid-19.0.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-auth:19.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/e94d4c46262c04452ee9877596073b58/firebase-auth-19.1.0/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-auth:19.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/e94d4c46262c04452ee9877596073b58/firebase-auth-19.1.0/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/29e1e66a39ef37e234c8a2d714a97ff9/jetified-firebase-storage-17.0.0/AndroidManifest.xml:30:9-34:19
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/29e1e66a39ef37e234c8a2d714a97ff9/jetified-firebase-storage-17.0.0/AndroidManifest.xml:30:9-34:19
+MERGED from [com.google.firebase:firebase-common:19.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/1c539ef2bb3996784245d4ef95a5e9fb/firebase-common-19.2.0/AndroidManifest.xml:13:9-17:35
+MERGED from [com.google.firebase:firebase-common:19.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/1c539ef2bb3996784245d4ef95a5e9fb/firebase-common-19.2.0/AndroidManifest.xml:13:9-17:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-firestore:21.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/a5224381b7dc0b9bfa5213437312c513/jetified-firebase-firestore-21.2.0/AndroidManifest.xml:19:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/1c539ef2bb3996784245d4ef95a5e9fb/firebase-common-19.2.0/AndroidManifest.xml:17:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/1c539ef2bb3996784245d4ef95a5e9fb/firebase-common-19.2.0/AndroidManifest.xml:15:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:21.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/a5224381b7dc0b9bfa5213437312c513/jetified-firebase-firestore-21.2.0/AndroidManifest.xml:18:13-84
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:21.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/a5224381b7dc0b9bfa5213437312c513/jetified-firebase-firestore-21.2.0/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:21.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/a5224381b7dc0b9bfa5213437312c513/jetified-firebase-firestore-21.2.0/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:21.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/a5224381b7dc0b9bfa5213437312c513/jetified-firebase-firestore-21.2.0/AndroidManifest.xml:21:17-111
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b28b14ca5323778c1caade79d1983929/play-services-measurement-17.2.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/733d47e1ff2687ec8949a4a7505c6ad2/play-services-measurement-api-17.2.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/733d47e1ff2687ec8949a4a7505c6ad2/play-services-measurement-api-17.2.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/856a947c1a9c6ebc4d2fc0c2fb4dbece/firebase-iid-19.0.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/856a947c1a9c6ebc4d2fc0c2fb4dbece/firebase-iid-19.0.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/41ad9da55c57d71cf9060429895bbd00/play-services-measurement-impl-17.2.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/41ad9da55c57d71cf9060429895bbd00/play-services-measurement-impl-17.2.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/d606ed20b4e29e870cd5d426b5e07d62/play-services-measurement-sdk-api-17.2.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/d606ed20b4e29e870cd5d426b5e07d62/play-services-measurement-sdk-api-17.2.0/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b28b14ca5323778c1caade79d1983929/play-services-measurement-17.2.0/AndroidManifest.xml:25:22-65
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b28b14ca5323778c1caade79d1983929/play-services-measurement-17.2.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/41ad9da55c57d71cf9060429895bbd00/play-services-measurement-impl-17.2.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/41ad9da55c57d71cf9060429895bbd00/play-services-measurement-impl-17.2.0/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b28b14ca5323778c1caade79d1983929/play-services-measurement-17.2.0/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b28b14ca5323778c1caade79d1983929/play-services-measurement-17.2.0/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b28b14ca5323778c1caade79d1983929/play-services-measurement-17.2.0/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b28b14ca5323778c1caade79d1983929/play-services-measurement-17.2.0/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b28b14ca5323778c1caade79d1983929/play-services-measurement-17.2.0/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b28b14ca5323778c1caade79d1983929/play-services-measurement-17.2.0/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/41ad9da55c57d71cf9060429895bbd00/play-services-measurement-impl-17.2.0/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/41ad9da55c57d71cf9060429895bbd00/play-services-measurement-impl-17.2.0/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b28b14ca5323778c1caade79d1983929/play-services-measurement-17.2.0/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b28b14ca5323778c1caade79d1983929/play-services-measurement-17.2.0/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b28b14ca5323778c1caade79d1983929/play-services-measurement-17.2.0/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b28b14ca5323778c1caade79d1983929/play-services-measurement-17.2.0/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b28b14ca5323778c1caade79d1983929/play-services-measurement-17.2.0/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b28b14ca5323778c1caade79d1983929/play-services-measurement-17.2.0/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b28b14ca5323778c1caade79d1983929/play-services-measurement-17.2.0/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b28b14ca5323778c1caade79d1983929/play-services-measurement-17.2.0/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b28b14ca5323778c1caade79d1983929/play-services-measurement-17.2.0/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b28b14ca5323778c1caade79d1983929/play-services-measurement-17.2.0/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b28b14ca5323778c1caade79d1983929/play-services-measurement-17.2.0/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b28b14ca5323778c1caade79d1983929/play-services-measurement-17.2.0/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b28b14ca5323778c1caade79d1983929/play-services-measurement-17.2.0/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b28b14ca5323778c1caade79d1983929/play-services-measurement-17.2.0/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b28b14ca5323778c1caade79d1983929/play-services-measurement-17.2.0/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/b28b14ca5323778c1caade79d1983929/play-services-measurement-17.2.0/AndroidManifest.xml:49:13-87
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:19.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/d967fea1cdebdb4502af8b07448b2b18/jetified-firebase-messaging-19.0.0/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:19.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/d967fea1cdebdb4502af8b07448b2b18/jetified-firebase-messaging-19.0.0/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:19.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/d967fea1cdebdb4502af8b07448b2b18/jetified-firebase-messaging-19.0.0/AndroidManifest.xml:29:13-82
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/733d47e1ff2687ec8949a4a7505c6ad2/play-services-measurement-api-17.2.0/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/733d47e1ff2687ec8949a4a7505c6ad2/play-services-measurement-api-17.2.0/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/733d47e1ff2687ec8949a4a7505c6ad2/play-services-measurement-api-17.2.0/AndroidManifest.xml:31:17-139
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/856a947c1a9c6ebc4d2fc0c2fb4dbece/firebase-iid-19.0.0/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/856a947c1a9c6ebc4d2fc0c2fb4dbece/firebase-iid-19.0.0/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/856a947c1a9c6ebc4d2fc0c2fb4dbece/firebase-iid-19.0.0/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/856a947c1a9c6ebc4d2fc0c2fb4dbece/firebase-iid-19.0.0/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/856a947c1a9c6ebc4d2fc0c2fb4dbece/firebase-iid-19.0.0/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/856a947c1a9c6ebc4d2fc0c2fb4dbece/firebase-iid-19.0.0/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/856a947c1a9c6ebc4d2fc0c2fb4dbece/firebase-iid-19.0.0/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/856a947c1a9c6ebc4d2fc0c2fb4dbece/firebase-iid-19.0.0/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/856a947c1a9c6ebc4d2fc0c2fb4dbece/firebase-iid-19.0.0/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/856a947c1a9c6ebc4d2fc0c2fb4dbece/firebase-iid-19.0.0/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/856a947c1a9c6ebc4d2fc0c2fb4dbece/firebase-iid-19.0.0/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/856a947c1a9c6ebc4d2fc0c2fb4dbece/firebase-iid-19.0.0/AndroidManifest.xml:42:25-78
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:19.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/e94d4c46262c04452ee9877596073b58/firebase-auth-19.1.0/AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/e94d4c46262c04452ee9877596073b58/firebase-auth-19.1.0/AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/e94d4c46262c04452ee9877596073b58/firebase-auth-19.1.0/AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/e94d4c46262c04452ee9877596073b58/firebase-auth-19.1.0/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/e94d4c46262c04452ee9877596073b58/firebase-auth-19.1.0/AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/e94d4c46262c04452ee9877596073b58/firebase-auth-19.1.0/AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/e94d4c46262c04452ee9877596073b58/firebase-auth-19.1.0/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/e94d4c46262c04452ee9877596073b58/firebase-auth-19.1.0/AndroidManifest.xml:25:13-85
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:19.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/e94d4c46262c04452ee9877596073b58/firebase-auth-19.1.0/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/e94d4c46262c04452ee9877596073b58/firebase-auth-19.1.0/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/e94d4c46262c04452ee9877596073b58/firebase-auth-19.1.0/AndroidManifest.xml:37:17-109
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/29e1e66a39ef37e234c8a2d714a97ff9/jetified-firebase-storage-17.0.0/AndroidManifest.xml:31:13-33:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/29e1e66a39ef37e234c8a2d714a97ff9/jetified-firebase-storage-17.0.0/AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:17.0.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/29e1e66a39ef37e234c8a2d714a97ff9/jetified-firebase-storage-17.0.0/AndroidManifest.xml:32:17-107
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/26923404d8e377cf48027104175cd048/play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/26923404d8e377cf48027104175cd048/play-services-base-17.1.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/26923404d8e377cf48027104175cd048/play-services-base-17.1.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/26923404d8e377cf48027104175cd048/play-services-base-17.1.0/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/1c539ef2bb3996784245d4ef95a5e9fb/firebase-common-19.2.0/AndroidManifest.xml:19:9-23:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/1c539ef2bb3996784245d4ef95a5e9fb/firebase-common-19.2.0/AndroidManifest.xml:21:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/1c539ef2bb3996784245d4ef95a5e9fb/firebase-common-19.2.0/AndroidManifest.xml:22:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/1c539ef2bb3996784245d4ef95a5e9fb/firebase-common-19.2.0/AndroidManifest.xml:23:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.2.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/1c539ef2bb3996784245d4ef95a5e9fb/firebase-common-19.2.0/AndroidManifest.xml:20:13-77
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/c292ecb9a8de3ae719de415b6368ee80/lifecycle-process-2.1.0/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/c292ecb9a8de3ae719de415b6368ee80/lifecycle-process-2.1.0/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/c292ecb9a8de3ae719de415b6368ee80/lifecycle-process-2.1.0/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/c292ecb9a8de3ae719de415b6368ee80/lifecycle-process-2.1.0/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/fifin/.gradle/caches/transforms-2/files-2.1/c292ecb9a8de3ae719de415b6368ee80/lifecycle-process-2.1.0/AndroidManifest.xml:24:13-79
